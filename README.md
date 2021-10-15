@@ -1,7 +1,7 @@
 # DPCrypto
 DPCrypto: Acceleration of Post-quantum Cryptographic Algorithms using Dot Product2Instruction on GPUs
 
-This is the code accompanying the paper "DPCrypto: Acceleration of Post-quantum Cryptographic Algorithms using Dot Product2Instruction on GPUs". https://eprint.iacr.org/2021/173
+This is the code accompanying the paper "DPCrypto: Acceleration of Post-quantum Cryptographic Algorithms using Dot Product2Instruction on GPUs". https://eprint.iacr.org/2021/1389
 
 #Introduction
 
