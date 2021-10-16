@@ -1,8 +1,6 @@
 # DPCrypto
 DPCrypto: Acceleration of Post-quantum Cryptographic Algorithms using Dot Product2Instruction on GPUs
 
-This is the code accompanying the paper "DPCrypto: Acceleration of Post-quantum Cryptographic Algorithms using Dot Product2Instruction on GPUs". https://eprint.iacr.org/2021/1389
-
 #Introduction
 
 The dot-product instructions in NVIDIA GPU are exploited to perform polynomial convolution/matrix multiplication found in several lattice-based cryptosystems. In this paper, we demonsrate two successful cases: FrodoKEM (DPFrodo) and Saber (DPSaber). We beleive that this can benefit other similar lattice-based schemes that cannot be accelerated by NTT. This repository also contain source codes for implementing FrodoKEM976-SHAKE and Saber parameter sets.
